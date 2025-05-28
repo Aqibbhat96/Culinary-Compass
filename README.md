@@ -78,5 +78,3 @@ Culinary Compass leverages the [**FlavorGraph**](https://github.com/lamypark/Fla
 
 ---
 
-## 📁 Project Structure
-
